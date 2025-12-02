@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "咆哮 - HOKO",
+  "base_artist": "友成空",
+  "createdAt": "2025-12-02T03:49:46.130175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "咆哮≒Emotion",
+      "artist": "やいり",
+      "has_synced": true,
+      "path": "select/01_咆哮≒Emotion_やいり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "咆哮 Growl (EXO-M Version)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/02_咆哮_Growl_(EXO-M_Version)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "咆哮 (Growl)",
+      "artist": "EXO-M",
+      "has_synced": true,
+      "path": "select/03_咆哮_(Growl)_EXO-M.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "咆哮(ミロ ソロVer.)",
+      "artist": "ミロ(CV:花江夏樹)",
+      "has_synced": true,
+      "path": "select/04_咆哮(ミロ_ソロVer.)_ミロ(CV_花江夏樹).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "咆哮 (ミロ ソロVer.)",
+      "artist": "ミロ(CV:Natsuki Hanae)",
+      "has_synced": true,
+      "path": "select/05_咆哮_(ミロ_ソロVer.)_ミロ(CV_Natsuki_Hanae).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "咆哮 (Growl)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/06_咆哮_(Growl)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "咆哮 (Growl) (EXO-M ver.)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/07_咆哮_(Growl)_(EXO-M_ver.)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "咆哮",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/08_咆哮_MUCC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "咆哮≒Emotion",
+      "artist": "やいり feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_咆哮≒Emotion_やいり_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Growl 咆哮 (EXO-M Version)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/10_Growl_咆哮_(EXO-M_Version)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "咆哮",
+      "artist": "EXO-M",
+      "has_synced": true,
+      "path": "select/11_咆哮_EXO-M.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "咆哮",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/12_咆哮_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "咆哮!ド田舎ちゃんねる5!",
+      "artist": "nao",
+      "has_synced": false,
+      "path": "select/13_咆哮!ド田舎ちゃんねる5!_nao.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "咆哮",
+      "artist": "ムック",
+      "has_synced": true,
+      "path": "select/14_咆哮_ムック.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "咆哮",
+      "artist": "友成空",
+      "has_synced": false,
+      "path": "select/pl_01_咆哮_友成空.txt"
+    }
+  ]
+}
